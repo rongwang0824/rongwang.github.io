@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"PhD Candidate in Finance at the Fuqua School of Business."
   location         : "Durham, NC"
-  employer         : "[Duke University](https://duke.edu/)"
+  employer         : '<a href="https://duke.edu/">Duke University</a>'
   uri              : # URL
   email            : "rong.wang1996@duke.edu"
 
