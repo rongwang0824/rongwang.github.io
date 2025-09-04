@@ -12,3 +12,4 @@ linkable: false
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
+# {{ page.title }} <span style="font-weight:normal">with [Anna Cieslak](https://sites.google.com/site/ancieslak/) and [Hao Pang](https://www.haopang.net/)</span>
