@@ -48,12 +48,10 @@
     opacity: 0.5;
   }
 
-  span a {
-    text-decoration: none;
-  }
-
+  span a,
   span a:visited {
     color: #007bff; /* A standard link blue */
+    text-decoration: none;
   }
 }
 
