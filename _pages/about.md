@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am a fifth-year PhD candidate in Finance at the Fuqua School of Business, Duke University. My research focuses on empirical asset pricing and fiscal policy. In particular, I study the testing and comparison of factor models and their implications for investment. I am also interested in fiscal shocks and in how fiscal beliefs shape asset prices.
 
-<a href="/files/CV_Rong_Wang.pdf" style="color: blue; text-decoration: none;">Download my CV</a>
+<a href="/files/CV_Rong_Wang.pdf" style="color: blue; text-decoration: none;" target="_blank" rel="noopener noreferrer">Download my CV</a>
 
 ## Contact
 * Email: rong.wang1996@duke.edu
