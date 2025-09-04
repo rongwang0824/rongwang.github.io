@@ -2,7 +2,7 @@
 title: "Fiscal Shocks and Beliefs"
 collection: research
 category: work_in_progress
-permalink: /research/fiscal_shocks_beliefs
+#permalink: /research/fiscal_shocks_beliefs
 #excerpt: ''
 date: 2025-01-01
 #venue: 'Journal 1'
