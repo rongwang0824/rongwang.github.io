@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png" # path to your avatar image, e.g., "profile.png"
   name             : "Rong Wang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Finance at the Fuqua School of Business."
+  bio              : #"PhD Candidate in Finance at the Fuqua School of Business."
   location         : "Durham, NC"
-  employer         : "Duke University"
+  employer         : "[Duke University](https://duke.edu/)"
   uri              : # URL
   email            : "rong.wang1996@duke.edu"
 
