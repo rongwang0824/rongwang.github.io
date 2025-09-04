@@ -1,6 +1,7 @@
 ---
-title: "Teaching Assistant" 
-collection: teaching 
+title: "Teaching Assistant"
+collection: teaching
+permalink: /teaching/2014-spring-teaching-1
 venue: "Fuqua School of Business, Duke University" 
 date: 2025-01-01 
 linkable: false
