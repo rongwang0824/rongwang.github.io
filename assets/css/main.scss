@@ -41,3 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* CUSTOM STYLES FOR FIXING LINK COLORS */
+.page__content a:last-of-type {
+  color: #3498db; /* <-- Use your theme's default blue here */
+}
