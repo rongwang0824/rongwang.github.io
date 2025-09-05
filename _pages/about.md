@@ -18,7 +18,7 @@ Welcome! I am a fifth-year PhD candidate in Finance at the Fuqua School of Busin
 ## Education
 * **Ph.D. in Finance**, Duke University, *exp. 2026*
 * **M.A. in Economics**, Duke University, *2020*
-* **B.A. in Economics**, Zhejiang University, *2018*
+* **B.A. in Finance**, Zhejiang University, *2018*
 * **Visiting Student**, Oxford University, Mansfield College, *2017-2018*
 
 ## News
