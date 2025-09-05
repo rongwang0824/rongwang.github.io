@@ -6,7 +6,7 @@ category: work_in_progress
 #excerpt: ''
 date: 2025-01-01
 linkable: false
-subtitle: 'with <a href="https://www.haopang.net/" target="_blank" rel="noopener noreferrer">Hao Pang</a> and <a href="https://sites.google.com/site/ancieslak/" target="_blank" rel="noopener noreferrer">Anna Cieslak</a>'
+subtitle: 'with <a href="https://sites.google.com/site/ancieslak/" target="_blank" rel="noopener noreferrer">Anna Cieslak</a> and <a href="https://www.haopang.net/" target="_blank" rel="noopener noreferrer">Hao Pang</a>'
 #venue: 'Journal 1'
 #slidesurl: '/files/slides1.pdf'
 #bibtexurl: '/files/bibtex1.bib'
