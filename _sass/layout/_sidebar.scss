@@ -35,11 +35,6 @@
     }
   }
 
-  @include breakpoint($large) {
-    flex: 0 0 320px;   // force a 320px sidebar
-    max-width: 320px;
-  }
-
   @include breakpoint($x-large) {
     max-width: $sidebar-link-max-width;
     padding-right: 0;
@@ -100,7 +95,7 @@
 
   img {
     max-width: 225px;
-    border-radius: 50%;
+    border-radius: 0;
 
     @include breakpoint($large) {
       padding: 5px;

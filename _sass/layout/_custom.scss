@@ -1,0 +1,11 @@
+.author__avatar img {
+  max-width: 225px;
+  border-radius: 0;   // square
+}
+
+.sidebar {
+  @include breakpoint($large) {
+    flex: 0 0 320px !important;
+    max-width: 320px !important;
+  }
+}
